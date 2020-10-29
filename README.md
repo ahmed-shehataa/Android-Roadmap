@@ -2,7 +2,7 @@
 This road-map for android development that can help you to improve your skills with very recommended articles and other resources. 
 
 <p align="center">
-  <img src="https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/03/android_figure_1.jpg?w=2000&quality=82&strip=all&ssl=1" alt="accessibility text">
+  <img src="img/android1.jpeg">
 </p>   
 
 **Before we start with providing you with resources**..    
@@ -11,7 +11,7 @@ This road-map for android development that can help you to improve your skills w
 Android is a mobile operating system based on a modified version of the Linux kernel and other open source software.   
 **Designed for:**   
 <p align="center">
-  <img src="https://www.irishtimes.com/polopoly_fs/1.3568785.1531930785!/image/image.jpg_gen/derivatives/box_620_330/image.jpg" width="650" alt="accessibility text">
+  <img src="img/android2.jpeg" width="650" >
 </p>   
 * Smartphones       
 * Tablets   
@@ -24,7 +24,7 @@ First of all you should learn a programming language from [java or kotlin] + xml
 
 ## Learn java:
 <p align="center">
-  <img src="https://3.bp.blogspot.com/-tASG8FDu-q0/XAhlY9OxQeI/AAAAAAAALkk/WS_mMVztewwfHGsTx5Sv_KP5RzwKsIdkgCLcBGAs/s1600/%25D8%25AA%25D8%25B9%25D9%2584%25D9%2585%2B%25D9%2584%25D8%25BA%25D8%25A9%2B%25D8%25AC%25D8%25A7%25D9%2581%25D8%25A7%2BJava.png" width="650" alt="accessibility text">
+  <img src="img/java.png" width="650" >
 </p>   
 
 I recommend you to start with java as a programming language so here some res:   
@@ -43,7 +43,7 @@ Abdullah Almehmadi:
 ## Basic level:
 Now you are ready to build user interface using xml and write some java code. 
 <p align="center">
-  <img src="https://d32myzxfxyl12w.cloudfront.net/images/blog_images/b20db22a3937fc97ce1162041495a0339f2c0a5a.png?1519728767" width="650" alt="accessibility text">
+  <img src="img/ui.png" width="650">
 </p>   
 
 **English**   
@@ -61,7 +61,9 @@ After that you are ready to work with database and networking so..
 
 ### DataBase in android:
 in android world.. the database commes from different sources (Local & Remote).   
-
+<p align="center">
+  <img src="img/rdatabase.png" width="350">
+</p>   
 **Local:**    
 We use shared preference and room database(based on sqllite).
 
