@@ -1,51 +1,70 @@
 # :rocket: Android-Roadmap 
-This road-map for android development that can help you to improve your skills with very recommended articles and other resources. 
-
 <p align="center">
   <img src="img/android1.jpeg">
 </p>   
+This road-map for android development that can help you to improve your skills with very recommended articles and other resources. 
 
 **Before we start with providing you with resources**..    
 ## :cyclone: What about android as operating system(OS): 
 
-Android is a mobile operating system based on a modified version of the Linux kernel and other open source software.   
-**Designed for:**   
 <p align="center">
   <img src="img/android2.jpeg" width="650" >
-</p>   
-* Smartphones       
-* Tablets   
-* Tv   
-* Wear OS   
-* Android things    
+</p> 
+
+Android is a mobile operating system based on a modified version of the Linux kernel and other open source software.   
+**Designed for:**   
+  
+- Smartphones       
+- Tablets   
+- Tv   
+- Wear OS   
+- Android things    
 ---
 
-First of all you should learn a programming language from [java or kotlin] + xml [for building the user interface(UI)]    
+`First of all we should learn a programming language from [java or kotlin] and xml [for building the user interface(UI)]`
+
+## I recommend you to start with java as a programming language.. why?   
+
+- In my opinion most of apps built with java and if you worked somewhere at a comapany , how do you refactor or add new features to this app that built with java!
+- Most of open source was written with java.
+- There are much more Java tutorials and almost every solution for Android problems on pages like StackOverflow from the last years have been written in Java. 
+- Understanding the syntax of a language is one thing, but to actually build apps you have to learn how to use the different framework and library APIs. You have to learn what classes you have to use and which methods you have to call in the different phases of your app. And for this you need practice and a lot of examples you can refer to.
+
+###`Don't worry Java is not going to be obsolete` 
+
 
 ## Learn java:
 <p align="center">
   <img src="img/java.png" width="650" >
 </p>   
 
-I recommend you to start with java as a programming language so here some res:   
-
-**Arabic:**   
+### Resources:   
+**Arabic**   
 Abdullah Almehmadi:   
 [Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
 [Java 102](https://www.youtube.com/watch?v=9w1jLen1lRU&list=PL138BE19EA2405C94)   
 [Java 103](https://www.youtube.com/watch?v=d1b2-99QzEo&list=PLA94A6FB67AB4CD0D)   
 [Java 104](https://www.youtube.com/watch?v=SjbXtRjavjA&list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)   
 
-**English:**   
+**English Crash course** 
+[Java 104](https://youtu.be/eIrMbAQSU34)   
 
----
+### Before moving to the next level be sure that you have a good knowledge about:   
+- OOP
+- Looping (for - while - doWhile)
+- Make a decision (if else - switch)
+- using Anonynmous object 
+- Built simple project with java like ( Banking or Hotel or SuperMarket system)
+
+`Now you are ready to start with android`
 
 ## Basic level:
-Now you are ready to build user interface using xml and write some java code. 
+Now you are ready to build user interface using xml and write some java code at android studio. 
 <p align="center">
   <img src="img/ui.png" width="650">
 </p>   
 
+### Resources:   
 **English**   
 Udacity:   
 Android Basics: User Interface ​ (due to 1 week)   
@@ -57,60 +76,78 @@ https://mena.udacity.com/course/android-basics-user-input--ud836
 Android Basics: Multiscreen Apps​ ​ (due to 1 Month)   
 https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839   
 
-After that you are ready to work with database and networking so..   
+After you have learned to use Relative and Linear layout.. there is another amazing thing called **Constraint layout** to build a responsive layout   
+[check this playlist](https://www.youtube.com/watch?v=4N4bCdyGcUc&list=PLrnPJCHvNZuA80lNWNCLICR3qYzhw3iPI)   
+
+**`Go a head and build a project and use the tools that you learned in basic level`**
+
+### After that you are ready to work with database and networking so..   
 
 ### DataBase in android:
-in android world.. the database commes from different sources (Local & Remote).   
+In android world.. the database commes from different sources (Local & Remote).   
 <p align="center">
   <img src="img/rdatabase.png" width="350">
 </p>   
-**Local:**    
+
+**Local**    
 We use shared preference and room database(based on sqllite).
 
-**Remote:**    
+**Remote**    
 We can use firebase or some thing called API.
 
+### Don't Worry right now about that, we 'll provide you with useful resources to learn that.
 
 ## Intermediate part 1:
-Before we start with sqllite.. what is the DataBase generally => [simple tutorial](https://youtu.be/FR4QIeZaPeM) 
+Before we start with sqllite.. What is the DataBase generally?       
+[simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
-
-then start with learing sqllite commnads before implement it with android studio:
-**English**     
-ProgrammingKnowledge:       
-https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS   
+then start with learing sqllite commnads before implement it with android studio:    
+### Resources:   
+ProgrammingKnowledge:    
+[check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
 
 `Additional but very useful:`   
-*To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net/)   
+*To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
-----
+then you should learn networking basics: (working with a remotly data)
+### Resources:   
+Android Basics: Networking ​ (due to 5 weeks)
+[check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
 
 ## Intermediate part 2:
-So now you need to learn about recycler view, notification, room database and more..    
-**English**   
+So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..    
+### Resources:   
 Udacity:   
 [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
----
+**`Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
 
 ## Advanced part 1:
-Get hands dirty with Android Jetpack
-Arch(MVVM, MVP, MVI)
-Working with
-Firbase
-media
-google apis
-Now, you need to know more about retrofit and it's customization
-Learn some design patterns (Builder, singleton, factory, observer, ...)
+Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotly and more..   
+### Resources:   
+Advanced Android App Development
+[check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
+
+then you should learn the best libarary in android development that working with APIs called (Retrofit)   
+### Resources:   
+Coding in flow
+[check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
+
+- Get hands dirty with Android Jetpack
+- Arch(MVVM, MVP, MVI)
+
+**`Go a head and build a project and use the tools that you learned in the previous levels`**
 
 ---
 
 ## Advanced part 2:
-Reactive programming
-DI
-Scurity
-Testing
-Sensors
+- Now, you need to know more about retrofit and it's customization
+- Learn some design patterns (Builder, singleton, factory, observer, ...)
+- Reactive programming
+- DI
+- Scurity
+- Testing
+- Sensors
 
 ---
 
