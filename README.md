@@ -30,7 +30,7 @@ Android is a mobile operating system based on a modified version of the Linux ke
 - There are much more Java tutorials and almost every solution for Android problems on pages like StackOverflow from the last years have been written in Java. 
 - Understanding the syntax of a language is one thing, but to actually build apps you have to learn how to use the different framework and library APIs. You have to learn what classes you have to use and which methods you have to call in the different phases of your app. And for this you need practice and a lot of examples you can refer to.
 
-### `Don't worry Java is not going to be obsolete` 
+**`Don't worry Java is not going to be obsolete`** 
 
 
 ## Learn java:
@@ -38,7 +38,7 @@ Android is a mobile operating system based on a modified version of the Linux ke
   <img src="img/java.png" width="650" >
 </p>   
 
-### Resources:   
+#### Resources:   
 **Arabic**   
 Abdullah Almehmadi:   
 1. [Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
@@ -84,39 +84,36 @@ After you have learned to use Relative and Linear layout.. there is another amaz
 ### After that you are ready to work with database and networking so..   
 
 ### DataBase in android:
-In android world.. the database commes from different sources (Local & Remote).   
 <p align="center">
   <img src="img/rdatabase.png" width="450">
 </p>   
+In android world.. the database commes from different sources (Local & Remote).   
 
-**Local**    
-We use shared preference and room database(based on sqllite).
+**Local:** We use shared preference and room database(based on sqllite).
 
-**Remote**    
-We can use firebase or some thing called API.
+**Remote:** We can use firebase or some thing called API.
 
-### Don't Worry right now about that, we 'll provide you with useful resources to learn that.
+**`Don't Worry right now about that, we 'll provide you with useful resources to learn that`**
 
 ## Intermediate part 1:
 Before we start with sqllite.. What is the DataBase generally?       
 [simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
 then start with learing sqllite commnads before implement it with android studio:
-### Resources:
-ProgrammingKnowledge:    
-[check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
+#### Resources:
+ProgrammingKnowledge: [check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
 
 `Additional but very useful:`   
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
 then you should learn networking basics: (working with a remotly data)
-### Resources:
+#### Resources:
 Android Basics: Networking ​ (due to 5 weeks)
 [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
 
 ## Intermediate part 2:
 So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
-### Resources:
+#### Resources:
 Udacity:   
 [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
@@ -124,12 +121,12 @@ Udacity:
 
 ## Advanced part 1:
 Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotly and more..   
-### Resources:
+#### Resources:
 Advanced Android App Development
 [check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
 
 then you should learn the best libarary in android development that working with APIs called (Retrofit)   
-### Resources:
+#### Resources:
 Coding in flow
 [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
