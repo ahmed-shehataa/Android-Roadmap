@@ -30,7 +30,7 @@ Android is a mobile operating system based on a modified version of the Linux ke
 - There are much more Java tutorials and almost every solution for Android problems on pages like StackOverflow from the last years have been written in Java. 
 - Understanding the syntax of a language is one thing, but to actually build apps you have to learn how to use the different framework and library APIs. You have to learn what classes you have to use and which methods you have to call in the different phases of your app. And for this you need practice and a lot of examples you can refer to.
 
-###`Don't worry Java is not going to be obsolete` 
+### `Don't worry Java is not going to be obsolete` 
 
 
 ## Learn java:
@@ -41,20 +41,20 @@ Android is a mobile operating system based on a modified version of the Linux ke
 ### Resources:   
 **Arabic**   
 Abdullah Almehmadi:   
-[Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
-[Java 102](https://www.youtube.com/watch?v=9w1jLen1lRU&list=PL138BE19EA2405C94)   
-[Java 103](https://www.youtube.com/watch?v=d1b2-99QzEo&list=PLA94A6FB67AB4CD0D)   
-[Java 104](https://www.youtube.com/watch?v=SjbXtRjavjA&list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)   
+1. [Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
+2. [Java 102](https://www.youtube.com/watch?v=9w1jLen1lRU&list=PL138BE19EA2405C94)   
+3. [Java 103](https://www.youtube.com/watch?v=d1b2-99QzEo&list=PLA94A6FB67AB4CD0D)   
+4. [Java 104](https://www.youtube.com/watch?v=SjbXtRjavjA&list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)   
 
-**English Crash course** 
-[Java 104](https://youtu.be/eIrMbAQSU34)   
+**English Crash course**    
+[Check this](https://youtu.be/eIrMbAQSU34)   
 
 ### Before moving to the next level be sure that you have a good knowledge about:   
-- OOP
-- Looping (for - while - doWhile)
-- Make a decision (if else - switch)
-- using Anonynmous object 
-- Built simple project with java like ( Banking or Hotel or SuperMarket system)
+- OOP.
+- Looping (for - while - doWhile).
+- Make a decision (if else - switch).
+- Using interface and abstraction and Anonynmous object.
+- Built simple project with java like ( Banking or Hotel or SuperMarket system).
 
 `Now you are ready to start with android`
 
@@ -67,13 +67,13 @@ Now you are ready to build user interface using xml and write some java code at 
 ### Resources:   
 **English**   
 Udacity:   
-Android Basics: User Interface ​ (due to 1 week)   
+1. Android Basics: User Interface ​ (due to 1 week)   
 https://mena.udacity.com/course/android-basics-user-interface--ud834  
 
-Android Basics: User Input ​ (due to 2 weeks)   
+2. Android Basics: User Input ​ (due to 2 weeks)   
 https://mena.udacity.com/course/android-basics-user-input--ud836  
 
-Android Basics: Multiscreen Apps​ ​ (due to 1 Month)   
+3. Android Basics: Multiscreen Apps​ ​ (due to 1 Month)   
 https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839   
 
 After you have learned to use Relative and Linear layout.. there is another amazing thing called **Constraint layout** to build a responsive layout   
@@ -86,7 +86,7 @@ After you have learned to use Relative and Linear layout.. there is another amaz
 ### DataBase in android:
 In android world.. the database commes from different sources (Local & Remote).   
 <p align="center">
-  <img src="img/rdatabase.png" width="350">
+  <img src="img/rdatabase.png" width="450">
 </p>   
 
 **Local**    
@@ -101,8 +101,8 @@ We can use firebase or some thing called API.
 Before we start with sqllite.. What is the DataBase generally?       
 [simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
-then start with learing sqllite commnads before implement it with android studio:    
-### Resources:   
+then start with learing sqllite commnads before implement it with android studio:
+### Resources:
 ProgrammingKnowledge:    
 [check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
 
@@ -110,13 +110,13 @@ ProgrammingKnowledge:
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
 then you should learn networking basics: (working with a remotly data)
-### Resources:   
+### Resources:
 Android Basics: Networking ​ (due to 5 weeks)
 [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
 
 ## Intermediate part 2:
-So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..    
-### Resources:   
+So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
+### Resources:
 Udacity:   
 [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
@@ -124,12 +124,12 @@ Udacity:
 
 ## Advanced part 1:
 Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotly and more..   
-### Resources:   
+### Resources:
 Advanced Android App Development
 [check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
 
 then you should learn the best libarary in android development that working with APIs called (Retrofit)   
-### Resources:   
+### Resources:
 Coding in flow
 [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
@@ -138,7 +138,6 @@ Coding in flow
 
 **`Go a head and build a project and use the tools that you learned in the previous levels`**
 
----
 
 ## Advanced part 2:
 - Now, you need to know more about retrofit and it's customization
@@ -149,8 +148,7 @@ Coding in flow
 - Testing
 - Sensors
 
----
 
-# What after that: :thinking:   
+## What after that: :thinking:   
 I think you need to keep leanring more and more.. :joy:   
 
