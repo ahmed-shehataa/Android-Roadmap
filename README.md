@@ -54,7 +54,7 @@ Abdullah Almehmadi:
 - Looping (for - while - doWhile).
 - Make a decision (if else - switch).
 - Using interface and abstraction and Anonynmous object.
-- Built simple project with java like ( Banking or Hotel or SuperMarket system).
+- :point_right: **Built simple project with java like ( Banking or Hotel or SuperMarket system)**.
 
 `Now you are ready to start with android`
 
@@ -93,7 +93,7 @@ In android world.. the database commes from different sources (Local & Remote).
 
 **Remote:** We can use firebase or some thing called API.
 
-**`Don't Worry right now about that, we 'll provide you with useful resources to learn that`**
+**:point_right: `Don't Worry right now about that, we 'll provide you with useful resources to learn that`**
 
 ## Intermediate part 1:
 Before we start with sqllite.. What is the DataBase generally?       
@@ -114,10 +114,21 @@ Android Basics: Networking ​ (due to 5 weeks)
 ## Intermediate part 2:
 So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
 #### Resources:
-Udacity:   
+Udacity:  
 [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
-**`Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
+---
+#### Now you need to learn some thing awesome called (Material design)
+<p align="center">
+  <img src="img/material.png" width="500">
+</p> 
+
+Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, ...
+
+Material Design for Android Developers:
+[check this](https://eu.udacity.com/course/material-design-for-android-developers--ud862)    
+
+**:point_right: `Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
 
 ## Advanced part 1:
 Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotly and more..   
@@ -133,7 +144,7 @@ Coding in flow
 - Get hands dirty with Android Jetpack
 - Arch(MVVM, MVP, MVI)
 
-**`Go a head and build a project and use the tools that you learned in the previous levels`**
+**:point_right: `Go a head and build a project and use the tools that you learned in the previous levels`**
 
 
 ## Advanced part 2:
