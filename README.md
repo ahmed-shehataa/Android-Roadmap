@@ -14,23 +14,22 @@ This road-map for android development that can help you to improve your skills w
 Android is a mobile operating system based on a modified version of the Linux kernel and other open source software.   
 **Designed for:**   
   
-- Smartphones       
-- Tablets   
-- Tv   
-- Wear OS   
-- Android things    
+- Smartphones & Tablets :iphone:
+- Tv :tv:
+- Wear OS :watch:
+- Android things :crystal_ball:
 ---
 
 `First of all we should learn a programming language from [java or kotlin] and xml [for building the user interface(UI)]`
 
-## I recommend you to start with java as a programming language.. why?   
+## I recommend you to start with java as a programming language.. why? :sweat_smile:
 
 - In my opinion most of apps built with java and if you worked somewhere at a comapany , how do you refactor or add new features to this app that built with java!
 - Most of open source was written with java.
 - There are much more Java tutorials and almost every solution for Android problems on pages like StackOverflow from the last years have been written in Java. 
 - Understanding the syntax of a language is one thing, but to actually build apps you have to learn how to use the different framework and library APIs. You have to learn what classes you have to use and which methods you have to call in the different phases of your app. And for this you need practice and a lot of examples you can refer to.
 
-**`Don't worry Java is not going to be obsolete`** 
+**`Don't worry Java is not going to be obsolete` :muscle:**  
 
 
 ## Learn java:
@@ -38,7 +37,7 @@ Android is a mobile operating system based on a modified version of the Linux ke
   <img src="img/java.png" width="650" >
 </p>   
 
-#### Resources:   
+#### :clipboard: Resources:   
 **Arabic**   
 Abdullah Almehmadi:   
 1. [Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
@@ -64,7 +63,7 @@ Now you are ready to build user interface using xml and write some java code at 
   <img src="img/ui.png" width="650">
 </p>   
 
-### Resources:   
+#### :clipboard: Resources:   
 **English**   
 Udacity:   
 1. Android Basics: User Interface ​ (due to 1 week)   
@@ -100,20 +99,20 @@ Before we start with sqllite.. What is the DataBase generally?
 [simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
 then start with learing sqllite commnads before implement it with android studio:
-#### Resources:
+#### :clipboard: Resources:
 ProgrammingKnowledge: [check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
 
 `Additional but very useful:`   
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
 then you should learn networking basics: (working with a remotly data)
-#### Resources:
+#### :clipboard: Resources:
 Android Basics: Networking ​ (due to 5 weeks)
 [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
 
 ## Intermediate part 2:
 So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
-#### Resources:
+#### :clipboard: Resources:
 Udacity:  
 [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
@@ -132,12 +131,12 @@ Material Design for Android Developers:
 
 ## Advanced part 1:
 Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotly and more..   
-#### Resources:
+#### :clipboard: Resources:
 Advanced Android App Development
 [check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
 
 then you should learn the best libarary in android development that working with APIs called (Retrofit)   
-#### Resources:
+#### :clipboard: Resources:
 Coding in flow
 [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
