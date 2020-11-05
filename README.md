@@ -4,7 +4,7 @@
 </p>   
 This road-map for android development that can help you to improve your skills with very recommended articles and other resources. 
 
-**Before we start with providing you with resources**..    
+**Before we start providing you with resources**..    
 ## :cyclone: What about android as operating system(OS): 
 
 <p align="center">
@@ -46,7 +46,10 @@ Abdullah Almehmadi:
 4. [Java 104](https://www.youtube.com/watch?v=SjbXtRjavjA&list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)   
 
 **English Crash course**    
-[Check this](https://youtu.be/eIrMbAQSU34)   
+[Check this](https://youtu.be/eIrMbAQSU34)     
+OR   
+[Check this](https://www.youtube.com/watch?v=kJ0PKUMWnQI&fbclid=IwAR37iuJILs0vRjkyW7-ZIPz-8kd_QEcl_5QgubmCgpdCCmf4ksNXRsuufMk)     
+
 
 ### Before moving to the next level be sure that you have a good knowledge about:   
 - OOP.
@@ -140,20 +143,20 @@ then you should learn the best libarary in android development that working with
 Coding in flow
 [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
-- Get hands dirty with Android Jetpack
-- Arch(MVVM, MVP, MVI)
+- Get hands dirty with Android Jetpack.
+- Arch(MVVM, MVP, MVI).
 
 **:point_right: `Go a head and build a project and use the tools that you learned in the previous levels`**
 
 
 ## Advanced part 2:
-- Now, you need to know more about retrofit and it's customization
-- Learn some design patterns (Builder, singleton, factory, observer, ...)
-- Reactive programming
-- DI
-- Scurity
-- Testing
-- Sensors
+- Now, you need to know more about retrofit and it's customization.
+- Learn some design patterns (Builder, singleton, factory, observer, ...).
+- Reactive programming.
+- DI.
+- Security.
+- Testing.
+- Sensors.
 
 
 ## What after that: :thinking:   
