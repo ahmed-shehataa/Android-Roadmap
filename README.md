@@ -46,14 +46,17 @@ Abdullah Almehmadi:
 4. [Java 104](https://www.youtube.com/watch?v=SjbXtRjavjA&list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)   
 
 **English Crash course**    
+[Check this](https://m.youtube.com/playlist?list=PLTTTcaxrixZT6v8k_QVSALXHX3KnaruuX) 
+<!--
 1. For Java basics syntax 
 [Check this](https://youtu.be/eIrMbAQSU34)     
 OR   
 [Check this](https://www.youtube.com/watch?v=kJ0PKUMWnQI&fbclid=IwAR37iuJILs0vRjkyW7-ZIPz-8kd_QEcl_5QgubmCgpdCCmf4ksNXRsuufMk)     
 
 2. Java OOP
-// TODO add a good resource here. 
+// TODO add a good resource here.
 
+-->
 ### Before moving to the next level be sure that you have a good knowledge about:   
 - OOP.
 - Looping (for - while - doWhile).
