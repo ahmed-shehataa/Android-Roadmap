@@ -20,13 +20,13 @@ Android is a mobile operating system based on a modified version of the Linux ke
 - Android things :crystal_ball:
 ---
 
-`First of all we should learn a programming language from [java or kotlin] and xml [for building the user interface(UI)]`
+`First of all we should learn a programming language from [java or Kotlin] and XML [for building the user interface(UI)]`
 
 ## I recommend you to start with java as a programming language.. why? :sweat_smile:
 
-- In my opinion most of apps built with java and if you worked somewhere at a comapany , how do you refactor or add new features to this app that built with java!
+- In my opinion most of apps built with java and if you worked somewhere at a company , how do you refactor or add new features to this app that built with java!
 - Most of open source was written with java.
-- There are much more Java tutorials and almost every solution for Android problems on pages like StackOverflow from the last years have been written in Java. 
+- There are much more Java tutorials and almost every solution for Android problems on pages like Stack Overflow from the last years have been written in Java. 
 - Understanding the syntax of a language is one thing, but to actually build apps you have to learn how to use the different framework and library APIs. You have to learn what classes you have to use and which methods you have to call in the different phases of your app. And for this you need practice and a lot of examples you can refer to.
 
 **`Don't worry Java is not going to be obsolete` :muscle:**  
@@ -91,7 +91,7 @@ After you have learned to use Relative and Linear layout.. there is another amaz
 
 ### After that you are ready to work with database and networking so..   
 
-### DataBase in android:
+### Database in android:
 <p align="center">
   <img src="img/rdatabase.png" width="450">
 </p>   
@@ -104,17 +104,17 @@ In android world.. the database commes from different sources (Local & Remote).
 **:point_right: `Don't Worry right now about that, we 'll provide you with useful resources to learn that`**
 
 ## Intermediate part 1:
-Before we start with sqllite.. What is the DataBase generally?       
+Before we start with sqllite.. What is the Database generally?       
 [simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
-then start with learing sqllite commnads before implement it with android studio:
+then start with learning sqllite commands before implement it with android studio:
 #### :clipboard: Resources:
 ProgrammingKnowledge: [check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
 
 `Additional but very useful:`   
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
-then you should learn networking basics: (working with a remotly data)
+then you should learn networking basics: (working with a remotely data)
 #### :clipboard: Resources:
 Android Basics: Networking ​ (due to 5 weeks)
 [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
@@ -139,7 +139,7 @@ Material Design for Android Developers:
 **:point_right: `Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
 
 ## Advanced part 1:
-Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotly and more..   
+Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotely and more..   
 #### :clipboard: Resources:
 Advanced Android App Development
 [check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
@@ -149,7 +149,7 @@ then you should learn the best libarary in android development that working with
 Coding in flow
 [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
-- Get hands dirty with Android Jetpack.
+- Get hands dirty with Android Jet-pack.
 - Arch(MVVM, MVP, MVI).
 
 **:point_right: `Go a head and build a project and use the tools that you learned in the previous levels`**
@@ -166,5 +166,4 @@ Coding in flow
 
 
 ## What after that: :thinking:   
-I think you need to keep leanring more and more.. :joy:   
-
+I think you need to keep learning more and more.. :joy:   
