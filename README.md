@@ -127,11 +127,12 @@ Udacity:
 
 ### After that I think you are ready to learn kotlin:
 <p align="center">
-  <img src="img/kt.jpeg" width="450">
+  <img src="img/kt.jpeg" width="650">
 </p> 
 
-[Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)   
-You should be sure that you are good at:   
+[Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)     
+
+**You should be sure that you are good at:**   
 - val, var, lateinit
 - inline function
 - Scoped funs
