@@ -130,6 +130,8 @@ Udacity:
   <img src="img/kt.jpeg" width="650">
 </p> 
 
+#### :clipboard: Resources:   
+**English**   
 [Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)     
 
 **You should be sure that you are good at:**   
