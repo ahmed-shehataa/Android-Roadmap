@@ -125,6 +125,22 @@ So now you need to learn about recycler view, fargments, notification, room data
 Udacity:  
 [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
+### After that I think you are ready to learn kotlin:
+<p align="center">
+  <img src="img/kt.jpeg" width="450">
+</p> 
+
+[Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)   
+You should be sure that you are good at:   
+- val, var, lateinit
+- inline function
+- Scoped funs
+- const VS val
+- data class
+- sealed class
+- Higher order funs and lambda experssion
+- kotlin coroutines
+
 ---
 #### Now you need to learn some thing awesome called (Material design)
 <p align="center">
@@ -159,10 +175,10 @@ Coding in flow
 - Now, you need to know more about retrofit and it's customization.
 - Learn some design patterns (Builder, singleton, factory, observer, ...).
 - Reactive programming.
-- DI.
+- Dependency injection (DI).
+- Sensors.
 - Security.
 - Testing.
-- Sensors.
 
 
 ## What after that: :thinking:   
