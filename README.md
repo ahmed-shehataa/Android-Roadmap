@@ -32,13 +32,12 @@ Android is a mobile operating system based on a modified version of the Linux ke
 **`Don't worry Java is not going to be obsolete` :muscle:**  
 
 
-## Learn java: (Duo to 3 or 4 weeks)
+## Learn java: (Due to 3 or 4 weeks)
 <p align="center">
   <img src="img/java.png" width="650" >
 </p>   
 
-#### :clipboard: Resources: 
-`Note: choose only one resource (Arabic or english)`    
+#### :clipboard: Resources: `choose only one resource (Arabic or english)`     
 **Arabic**   
 Abdullah Almehmadi:   
 1. [Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
