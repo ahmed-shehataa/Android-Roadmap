@@ -64,7 +64,7 @@ OR
 - Exception handling (try catch).
 - Casting, static, final, generics.
 - Using interface and abstraction and Anonynmous object.
-- :point_right: **Built simple project with java like ( Banking or Hotel or SuperMarket system)**.
+- :point_right: **Build a simple project with java like ( Banking or Hotel or SuperMarket system)**.
 
 `Now you are ready to start with android`
 
@@ -160,7 +160,7 @@ Material Design for Android Developers:
 **:point_right: `Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
 
 ## Advanced part 1:
-Alirght, you need to add some more features for your app like playing music, integrate google maps into your app, push notification remotely and more..   
+Alright, you need to add some more features for your app like playing music, integrate google maps into your app, push notification and more..   
 #### :clipboard: Resources:
 Advanced Android App Development
 [check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
@@ -178,13 +178,14 @@ Coding in flow
 
 ## Advanced part 2:
 - Now, you need to know more about retrofit and it's customization.
-- Learn some design patterns (Builder, singleton, factory, observer, ...).
+- Learn some design patterns (Builder, singleton, factory, prototype, observer, ...).
 - Reactive programming.
 - Dependency injection (DI).
+- Jet-pack Compose 
 - Sensors.
 - Security.
 - Testing.
 
 
 ## What after that: :thinking:   
-I think you need to keep learning more and more.. :joy:   
+I think you need to keep learning more and more..
