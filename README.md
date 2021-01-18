@@ -105,48 +105,43 @@ In android world.. the database commes from different sources (Local & Remote).
 
 **:point_right: `Don't Worry right now about that, we 'll provide you with useful resources to learn that`**
 
-## Intermediate part 1:
-Before we start with sqllite.. What is the Database generally?       
-[simple tutorial](https://youtu.be/FR4QIeZaPeM)    
+## Intermediate part 1: 
+Before that you should learn an important view called recycle view.. Why? 
+Most of android apps need to display a list of any type of data for users so the best way to handle that using recycler view. 
+<p align="center">
+  <img src="img/rv.png" width="650">
+</p>
+#### :clipboard: Resources:
+1. [check this tutorial](https://www.vogella.com/tutorials/AndroidRecyclerView/article.html)   
+
+At first.. What is Database generally       
+2. [simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
 then start with learning sqllite commands before implement it with android studio:
 #### :clipboard: Resources:
-ProgrammingKnowledge: [check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
+3. ProgrammingKnowledge: [check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
 
 `Additional but very useful:`   
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
-then you should learn networking basics: (working with a remotely data)
-#### :clipboard: Resources:
-Android Basics: Networking ​ (due to 5 weeks)
-[check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
-
-## Intermediate part 2:
 So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
 #### :clipboard: Resources:
 Udacity:  
-[check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
-
-### After that I think you are ready to learn kotlin:
-<p align="center">
-  <img src="img/kt.jpeg" width="650">
-</p> 
-
-#### :clipboard: Resources:   
-**English**   
-[Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)     
-
-**You should be sure that you are good at:**   
-- val, var, lateinit
-- inline function
-- Scoped funs
-- const VS val
-- data class
-- sealed class
-- Higher order funs and lambda experssion
-- kotlin coroutines
+4. [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
 ---
+
+## Intermediate part 2:
+You should learn networking basics: (working with a remotely data)
+#### :clipboard: Resources:
+Android Basics: Networking ​ (due to 5 weeks)
+1. [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
+
+Then you should learn the best libarary in android development that working with APIs called (Retrofit)   
+#### :clipboard: Resources:
+Coding in flow
+2. [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
+
 #### Now you need to learn some thing awesome called (Material design)
 <p align="center">
   <img src="img/material.png" width="500">
@@ -155,7 +150,7 @@ Udacity:
 Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, ...
 
 Material Design for Android Developers:
-[check this](https://eu.udacity.com/course/material-design-for-android-developers--ud862)    
+3. [check this](https://eu.udacity.com/course/material-design-for-android-developers--ud862)    
 
 **:point_right: `Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
 
@@ -163,15 +158,30 @@ Material Design for Android Developers:
 Alright, you need to add some more features for your app like playing music, integrate google maps into your app, push notification and more..   
 #### :clipboard: Resources:
 Advanced Android App Development
-[check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
+1. [check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
 
-then you should learn the best libarary in android development that working with APIs called (Retrofit)   
-#### :clipboard: Resources:
-Coding in flow
-[check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
+### After that I think you are ready to learn kotlin:
+<p align="center">
+  <img src="img/kt.jpeg" width="650">
+</p> 
 
-- Get hands dirty with Android Jet-pack.
-- Arch(MVVM, MVP, MVI).
+#### :clipboard: Resources:   
+**English**   
+2. [Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)     
+
+** After finishing this course above you should be sure that you are good at:**   
+- val, var, lateinit
+- inline function
+- Scoped funs
+- const VS val
+- data class
+- sealed class
+- Higher order funs and lambda experssion
+
+---
+
+3. Get hands dirty with Android Jet-pack.
+4. Arch(MVVM, MVP, MVI).
 
 **:point_right: `Go a head and build a project and use the tools that you learned in the previous levels`**
 
@@ -180,6 +190,7 @@ Coding in flow
 - Now, you need to know more about retrofit and it's customization.
 - Learn some design patterns (Builder, singleton, factory, prototype, observer, ...).
 - Reactive programming.
+- Kotlin coroutines. 
 - Dependency injection (DI).
 - Jet-pack Compose 
 - Sensors.
