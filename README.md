@@ -115,7 +115,8 @@ Most of android apps need to display a list of any type of data for users so the
 #### :clipboard: Resources:   
 1. [check this tutorial](https://www.vogella.com/tutorials/AndroidRecyclerView/article.html)   
 
-At first.. What is Database generally       
+What is Database generally       
+#### :clipboard: Resources:   
 2. [simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
 then start with learning sqllite commands before implement it with android studio:
@@ -140,7 +141,7 @@ Android Basics: Networking ​ (due to 5 weeks)
 
 Then you should learn the best libarary in android development that working with APIs called (Retrofit)   
 #### :clipboard: Resources:
-Coding in flow
+Coding in flow.   
 2. [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
 #### Now you need to learn some thing awesome called (Material design)
@@ -150,7 +151,7 @@ Coding in flow
 
 Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, ...
 
-Material Design for Android Developers:
+Material Design for Android Developers:    
 3. [check this](https://eu.udacity.com/course/material-design-for-android-developers--ud862)    
 
 **:point_right: `Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
@@ -158,7 +159,7 @@ Material Design for Android Developers:
 ## Advanced part 1:
 Alright, you need to add some more features for your app like playing music, integrate google maps into your app, push notification and more..   
 #### :clipboard: Resources:
-Advanced Android App Development
+Advanced Android App Development.  
 1. [check this](https://mena.udacity.com/course/advanced-android-app-development--ud855)
 
 ### After that I think you are ready to learn kotlin:
@@ -181,8 +182,11 @@ Advanced Android App Development
 
 ---
 
-3. Get hands dirty with Android Jet-pack.
-4. Arch(MVVM, MVP, MVI).
+3. What is android jetpack?    
+[check this video](https://youtu.be/LmkKFCfmnhQ)    
+Get hands dirty with Android Jet-pack.
+
+4. Learn more about Architecture pattern (MVVM, MVP, MVI).
 
 **:point_right: `Go a head and build a project and use the tools that you learned in the previous levels`**
 
