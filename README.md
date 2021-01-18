@@ -106,19 +106,20 @@ In android world.. the database commes from different sources (Local & Remote).
 **:point_right: `Don't Worry right now about that, we 'll provide you with useful resources to learn that`**
 
 ## Intermediate part 1: 
-Before that you should learn an important view called recycle view.. Why? 
+Before that you should learn an important view called recycle view.. Why?    
 Most of android apps need to display a list of any type of data for users so the best way to handle that using recycler view. 
 <p align="center">
   <img src="img/rv.png" width="650">
 </p>
-#### :clipboard: Resources:
+
+#### :clipboard: Resources:   
 1. [check this tutorial](https://www.vogella.com/tutorials/AndroidRecyclerView/article.html)   
 
 At first.. What is Database generally       
 2. [simple tutorial](https://youtu.be/FR4QIeZaPeM)    
 
 then start with learning sqllite commands before implement it with android studio:
-#### :clipboard: Resources:
+#### :clipboard: Resources:   
 3. ProgrammingKnowledge: [check this](https://www.youtube.com/playlist?list=PLS1QulWo1RIa0-Cs2Qx6GFyiIVVVS9lCS)   
 
 `Additional but very useful:`   
