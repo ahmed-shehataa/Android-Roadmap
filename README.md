@@ -171,7 +171,7 @@ Advanced Android App Development.
 **English**   
 2. [Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)     
 
-** After finishing this course above you should be sure that you are good at:**   
+**After finishing this course above you should be sure that you are good at:**   
 - val, var, lateinit
 - inline function
 - Scoped funs
@@ -179,8 +179,6 @@ Advanced Android App Development.
 - data class
 - sealed class
 - Higher order funs and lambda experssion
-
----
 
 3. What is android jetpack?    
 [check this video](https://youtu.be/LmkKFCfmnhQ)    
