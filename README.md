@@ -126,18 +126,20 @@ then start with learning sqllite commands before implement it with android studi
 `Additional but very useful:`   
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
-So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
+Now you should learn networking basics: (working with a remotely data)
 #### :clipboard: Resources:
-Udacity:  
-4. [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
+Android Basics: Networking ​ (due to 5 weeks)
+1. [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
 
 ---
 
 ## Intermediate part 2:
-You should learn networking basics: (working with a remotely data)
+
+
+So now you need to use what you have learned about recycler view, room database and working with some libraries and learn about fragments and notifications.
 #### :clipboard: Resources:
-Android Basics: Networking ​ (due to 5 weeks)
-1. [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
+Udacity:  
+4. [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
 
 Then you should learn the best libarary in android development that working with APIs called (Retrofit)   
 #### :clipboard: Resources:
