@@ -126,10 +126,10 @@ then start with learning sqllite commands before implement it with android studi
 `Additional but very useful:`   
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
-So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
-#### :clipboard: Resources:
-Udacity:  
-4. [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
+ 
+4. Learn how to store data into your local database of yoyr application by learning room database.   
+// **TODO** Add a room db resources. 
+
 
 ---
 
@@ -139,10 +139,15 @@ You should learn networking basics: (working with a remotely data)
 Android Basics: Networking ​ (due to 5 weeks)
 1. [check this](https://mena.udacity.com/course/android-basics-networking--ud843)   
 
+So now you need to learn about recycler view, fargments, notification, room database and working with some libraries and more..
+#### :clipboard: Resources:
+Udacity:  
+2. [check this](https://mena.udacity.com/course/new-android-fundamentals--ud851)   
+
 Then you should learn the best libarary in android development that working with APIs called (Retrofit)   
 #### :clipboard: Resources:
 Coding in flow.   
-2. [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
+3. [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
 #### Now you need to learn some thing awesome called (Material design)
 <p align="center">
@@ -152,7 +157,7 @@ Coding in flow.
 Material is an adaptable system of guidelines, components, and tools that support the best practices of user interface design. Backed by open-source code, ...
 
 Material Design for Android Developers:    
-3. [check this](https://eu.udacity.com/course/material-design-for-android-developers--ud862)    
+4. [check this](https://eu.udacity.com/course/material-design-for-android-developers--ud862)    
 
 **:point_right: `Go a head and build a project and use the tools that you learned in basic level and Intermediate part 1&2`**
 
