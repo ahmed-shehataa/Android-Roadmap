@@ -127,8 +127,9 @@ then start with learning sqllite commands before implement it with android studi
 *To master sqllite* check this [Sqllite fully tutorial](https://www.sqlitetutorial.net)   
 
  
-4. Learn how to store data into your local database of yoyr application by learning room database.   
-// **TODO** Add a room db resources. 
+Learn how to store data into your local database of your application by learning room database.   
+#### :clipboard: Resources:
+4. **TODO** Add a room db resources. 
 
 
 ---
