@@ -1,4 +1,5 @@
 # :rocket: Android-Roadmap 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Eng-AhmedShehata/Android-Roadmap/edit/main/README.md)
 <p align="center">
   <img src="img/android1.jpeg">
 </p>   
