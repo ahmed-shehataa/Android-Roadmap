@@ -39,15 +39,19 @@ Android is a mobile operating system based on a modified version of the Linux ke
 </p>   
 
 #### :clipboard: Resources: `choose only one resource (Arabic or english)`     
-**Arabic**   
-Abdullah Almehmadi:   
-1. [Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
-2. [Java 102](https://www.youtube.com/watch?v=9w1jLen1lRU&list=PL138BE19EA2405C94)   
-3. [Java 103](https://www.youtube.com/watch?v=d1b2-99QzEo&list=PLA94A6FB67AB4CD0D)   
-4. [Java 104](https://www.youtube.com/watch?v=SjbXtRjavjA&list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)   
-
-**English Crash course**    
+## Arabic   
+- [Java from zero](https://www.youtube.com/playlist?list=PLQYjhn7xrRnaHRNU3xUspKQv1wspDJ28O)
+- Abdullah Almehmadi:   
+  1. [Java 101](https://www.youtube.com/watch?v=3QC6Zpz3As4&list=PL28DDB2DCF87BEE43)   
+  2. [Java 102](https://www.youtube.com/watch?v=9w1jLen1lRU&list=PL138BE19EA2405C94)   
+  3. [Java 103](https://www.youtube.com/watch?v=d1b2-99QzEo&list=PLA94A6FB67AB4CD0D)   
+  4. [Java 104](https://www.youtube.com/watch?v=SjbXtRjavjA&list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)   
+- [OOP](https://www.youtube.com/watch?v=M3Na5luSx50&list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk)
+## English Crash course
 [Check this](https://m.youtube.com/playlist?list=PLTTTcaxrixZT6v8k_QVSALXHX3KnaruuX) 
+
+
+
 <!--
 1. For Java basics syntax 
 [Check this](https://youtu.be/eIrMbAQSU34)     
