@@ -1,9 +1,34 @@
 # :rocket: Android-Roadmap 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Eng-AhmedShehata/Android-Roadmap/edit/main/README.md)
-<p align="center">
-  <img src="img/android1.jpeg">
-</p>   
+
+#### :raising_hand: [Follow me in LinkedIn](https://www.linkedin.com/in/ahmed-she7ata/)
+#### :information_desk_person: [Follow me in Github](https://github.com/ahmed-shehataa)
+#### :two_men_holding_hands: [Join my telegram channel to be up to date for new android articles and features](https://t.me/androidy_me)
+
+----
+
+
 This road-map for android development that can help you to improve your skills with very recommended articles and other resources. 
+
+<p align="center">
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-1000x1000.jpg"  width="700">
+</p>   
+
+## Table content
+
+| Section |
+| ----- |
+| About android |
+| Whay java first? |
+| Java resources |
+| Android basic |
+| Android intermediate part 1 |
+| Android intermediate part 2 |
+| Android advanced part 1 |
+| Android advanced part 2 |
+
+---
+
+
 
 **Before we start providing you with resources**..    
 ## :cyclone: What about android as operating system(OS): 
@@ -25,13 +50,11 @@ Android is a mobile operating system based on a modified version of the Linux ke
 
 ## I recommend you to start with java as a programming language.. why? :sweat_smile:
 
-- In my opinion most of apps built with java and if you worked somewhere at a company , how do you refactor or add new features to this app that built with java!
 - Most of open source was written with java.
+- Most of apps built with java and if you worked somewhere at a company, how do you refactor this app that built with java!
 - There are much more Java tutorials and almost every solution for Android problems on pages like Stack Overflow from the last years have been written in Java. 
-- Understanding the syntax of a language is one thing, but to actually build apps you have to learn how to use the different framework and library APIs. You have to learn what classes you have to use and which methods you have to call in the different phases of your app. And for this you need practice and a lot of examples you can refer to.
 
 **`Don't worry Java is not going to be obsolete` :muscle:**  
-
 
 ## Learn java: (Due to 3 or 4 weeks)
 <p align="center">
@@ -153,7 +176,8 @@ Udacity:
 Then you should learn the best libarary in android development that working with APIs called (Retrofit)   
 #### :clipboard: Resources:
 Coding in flow.   
-3. [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
+3. [What is API](https://youtu.be/s7wmiS2mSXY)
+4. [check this](https://www.youtube.com/watch?v=4JGvDUlfk7Y&list=PLrnPJCHvNZuCbuD3xpfKzQWOj3AXybSaM)
 
 #### Now you need to learn some thing awesome called (Material design)
 <p align="center">
@@ -203,14 +227,39 @@ Get hands dirty with Android Jet-pack.
 ## Advanced part 2:
 - Now, you need to know more about retrofit and it's customization.
 - Learn some design patterns (Builder, singleton, factory, prototype, observer, ...).
-- Reactive programming.
 - Kotlin coroutines. 
+- Testing.
+- Reactive programming.
+- Jetpack Compose 
 - Dependency injection (DI).
-- Jet-pack Compose 
 - Sensors.
 - Security.
-- Testing.
 
+### More about Retrofit:
+  1. [Making Retrofit Work For You](https://youtu.be/s7wmiS2mSXY)
+  2. [Okhttp interceptors](https://square.github.io/okhttp/features/interceptors/)
+  3. [Build a custom retrofit adapter](https://medium.com/android-news/building-your-own-retrofit-call-adapter-b198169bab69)
+  
+### Kotlin coroutines:
+  1. [The ABC of Coroutines](https://www.youtube.com/watch?v=bM7PVVL_5GM)
+  2. kotlin coroutines by tutorials (Book)
+  
+### Dependency injection:
+  1. [Manual DI](https://developer.android.com/training/dependency-injection/manual)
+  2. [Service locator VS Dependency injection](https://medium.com/mobile-app-development-publication/dependency-injection-and-service-locator-4dbe4559a3ba)
+  3. [Dagger](https://developer.android.com/training/dependency-injection/dagger-android)
+  4. [Dagger hilt](https://developer.android.com/training/dependency-injection/hilt-android)
+
+### Jetpack Compose:
+  1. [Whay compose?](https://developer.android.com/jetpack/compose/why-adopt)
+  1. [Compose pathway](https://developer.android.com/courses/jetpack-compose/course)
+  2. [Compose Camp](https://goo.gle/3DgqJmj)
+  
+### Testing:
+  1. [Why testing?](https://youtu.be/EkfVL5vCDmo)
+  2. [Testing types in android](https://developer.android.com/training/testing/fundamentals) 
+  3. [Unit test playlist](https://www.youtube.com/watch?v=EkfVL5vCDmo&list=PLQkwcJG4YTCSYJ13G4kVIJ10X5zisB2Lq)
+  4. [Unit test talk from `Eng. Ahmed Adel`](https://www.youtube.com/watch?v=AmaHlsd4vUg)
 
 ## What after that: :thinking:   
 I think you need to keep learning more and more..
