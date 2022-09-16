@@ -204,7 +204,6 @@ Advanced Android App Development.
 
 #### :clipboard: Resources:   
 **Arabic**
-<br/>
 
 [Kotlin Basics](https://www.youtube.com/watch?v=B6OHcdzASVk&list=PLb6ZzJ93PVworJwMuGgBrp08Ijiu1Dnre)
 
