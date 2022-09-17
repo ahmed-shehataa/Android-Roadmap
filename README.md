@@ -18,7 +18,7 @@ This road-map for android development that can help you to improve your skills w
 | Section |
 | ----- |
 | About android |
-| Whay java first? |
+| Why java first? |
 | Java resources |
 | Android basic |
 | Android intermediate part 1 |
