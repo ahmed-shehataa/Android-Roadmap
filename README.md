@@ -1,7 +1,7 @@
 # :rocket: Android-Roadmap 
 
-#### :raising_hand: [Follow me in LinkedIn](https://www.linkedin.com/in/ahmed-she7ata/)
-#### :information_desk_person: [Follow me in Github](https://github.com/ahmed-shehataa)
+#### :raising_hand: [Follow me on LinkedIn](https://www.linkedin.com/in/ahmed-she7ata/)
+#### :information_desk_person: [Follow me on Github](https://github.com/ahmed-shehataa)
 #### :two_men_holding_hands: [Join my telegram channel to be up to date for new android articles and features](https://t.me/androidy_me)
 
 ----
@@ -211,7 +211,7 @@ Advanced Android App Development.
 
 **English**   
 
-2. [Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)     
+- [Kotlin crash course](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)     
 
 **After finishing this course above you should be sure that you are good at:**   
 - val, var, lateinit
@@ -258,7 +258,7 @@ Get hands dirty with Android Jet-pack.
   4. [Dagger hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 
 ### Jetpack Compose:
-  1. [Whay compose?](https://developer.android.com/jetpack/compose/why-adopt)
+  1. [Why compose?](https://developer.android.com/jetpack/compose/why-adopt)
   1. [Compose pathway](https://developer.android.com/courses/jetpack-compose/course)
   2. [Compose Camp](https://goo.gle/3DgqJmj)
   
